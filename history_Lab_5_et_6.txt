@@ -1,0 +1,1000 @@
+  882  cd Lab_Info/
+  883  cd lab5
+  884  ls
+  885  ls -.
+  886  ls .
+  887  git add .
+  888  git status
+  889  git commit -m 
+  890  git commit -m ""
+  891  git push -u origin master
+  892  git remote add origin https://github.com/Arno-hub/lab5.git
+  893  git push -u origin main
+  894  git remote add origin https://github.com/Arno-hub/lab5
+  895  git push -u 
+  896  git push -u origin master
+  897  git remote add origin https://github.com/Arno-hub/lab5.git
+  898  git branch -M main
+  899  git branch -M main 
+  900  git push -u origin main
+  901  cd Desktop/
+  902  cd Lab_Info/
+  903  cd lab4
+  904  ls 
+  905  cd lab4/
+  906  ls
+  907  cd Desktop/
+  908  cd Lab_Info/
+  909  cd lab5
+  910  ls
+  911  git status
+  912  history
+  913  git remote add origin https://github.com/Arno-hub/lab5.git
+  914  git push -u origin main
+  915  cd ..
+  916  mkdir Lab5
+  917  ls
+  918  cd Lab5
+  919  ls
+  920  git init 
+  921  git status 
+  922  git add .
+  923  git status
+  924  git commit -m "Ok"
+  925  git remote add origin https://github.com/Arno-hub/lab5.git
+  926  git push -u origin main 
+  927  ls 
+  928  cd ..
+  929  ls
+  930  rm Lab5
+  931  rm -r Lab5
+  932  cd Desktop/
+  933  cd Lab_Info/
+  934  cd lab5
+  935  ls
+  936  ls -a
+  937  git status
+  938  git add .
+  939  git status
+  940  git commit -m " tout est ok "
+  941  git push -u main 
+  942  git push -u origin main 
+  943  cd Desktop/
+  944  cd Lab_Info/
+  945  cd lab5
+  946  ls
+  947  git add .
+  948  git status
+  949  git commit -m " tout est ok "
+  950  git remote add origin https://github.com/Arno-hub/lab5.git
+  951  git push -u origin main 
+  952  git pull
+  953  git bra,ch
+  954  git branch
+  955  git branch --set-upstrean-to=origin/<main> main
+  956  git set-upstream 
+  957  git branch --set-upstrean-to=origin/main main
+  958  ls 
+  959  git pull
+  960  git pull origin main 
+  961  git add .
+  962  git status
+  963  git commit -m "ok"
+  964  cd Desktop/
+  965  cd Lab_Info/
+  966  cd lab
+  967  cd lab5
+  968  LS
+  969  ls
+  970  git push -u origin main 
+  971  git pull origin main 
+  972  git push -u origin main 
+  973  git pull origin main 
+  974  cd ..
+  975  ls
+  976  mv lab5 Lab5
+  977  ls
+  978  mkdir lab5
+  979  ls
+  980  cd lab5
+  981  ls
+  982  cd ..
+  983  cd Lab5
+  984  ls
+  985  git pull --allow-unrelated-histories
+  986  ls
+  987  git remote add origin https://github.com/Arno-hub/lab5.git
+  988  git push -u origin main 
+  989  git remote add origin https://github.com/Arno-hub/lab_5.git
+  990  cd ..
+  991  ls
+  992  cd Lab5
+  993  LS -A
+  994  ls -a
+  995  cd ..
+  996  ls
+  997  cd lab5
+  998  ls -a
+  999  cd ..
+ 1000  ls
+ 1001  rm -r Lab5
+ 1002  cd Desktop/
+ 1003  cd Lab_Info/
+ 1004  cd lab5
+ 1005  ls 
+ 1006  git init
+ 1007  git status
+ 1008  git add .
+ 1009  git status
+ 1010  history
+ 1011  git remote add origin https://github.com/Arno-hub/Lab5.git
+ 1012  git push -u origin main 
+ 1013  git push -u origin master
+ 1014  git branch
+ 1015  cd Desktop/a
+ 1016  cd Desktop/
+ 1017  cd Lab_Info/
+ 1018  cd lab5
+ 1019  ls
+ 1020  ./Lecture_Doc_Part_4.sh 
+ 1021  vim Lecture_Doc_Part_4.sh 
+ 1022  cat Lecture_Doc_Part_4.sh 
+ 1023  source Lecture_Doc_Repertoire_Au_Choix.sh ; Lecture_Doc_Repertoire_Au_Choix ~/Desktop/Lab_Info/lab4/lab4/*/
+ 1024  vim Lecture_Doc_Repertoire_Au_Choix.sh
+ 1025  vim Lecture_Doc_Part_4.sh 
+ 1026  ls 
+ 1027  c&
+ 1028  cat Lecture_2_nbr.sh 
+ 1029  cd ..
+ 1030  cd ~
+ 1031  ls
+ 1032  cd Desktop/
+ 1033  cd Lab_Info/
+ 1034  cD lab5
+ 1035  ls
+ 1036  cd lab5
+ 1037  ls
+ 1038  vim Lecture_
+ 1039  cd Lect
+ 1040  vim Lecture_2_nbr.sh 
+ 1041  ./Lecture_2_nbr.sh 2 3
+ 1042  vim Lecture_2_nbr.sh 
+ 1043  vim master.sh 
+ 1044  vim Lecture_Doc_Part_4.sh 
+ 1045  ./Lecture_Doc_Part_4.sh 
+ 1046  cat Lecture_Doc_Part_4.sh 
+ 1047  vim Lecture_Doc_Part_4.sh 
+ 1048  vim Lecture_Doc_Repertoire_Au_Choix.sh 
+ 1049  ls
+ 1050  cat Lecture_Doc_Part_4.sh 
+ 1051  vim Lecture_Doc_Repertoire_Au_Choix.sh 
+ 1052  ./Lecture_Doc_Repertoire_Au_Choix.sh ~/Desktop/Lab_Info/lab4/lab4/*/
+ 1053  vim Lecture_Doc_Repertoire_Au_Choix.sh 
+ 1054  ./Lecture_Doc_Repertoire_Au_Choix.sh ~/Desktop/Lab_Info/lab4/lab4/*/
+ 1055  ./Lecture_Doc_Repertoire_Au_Choix.sh ~/Desktop/Lab_Info/lab4/lab4/
+ 1056  ./Lecture_Doc_Repertoire_Au_Choix.sh ~/Desktop/Lab_Info/lab4/lab4
+ 1057  ./Lecture_Doc_Repertoire_Au_Choix.sh /Desktop/Lab_Info/lab4/lab4
+ 1058  vim Lecture_Doc_Repertoire_Au_Choix.sh 
+ 1059  ./Lecture_Doc_Repertoire_Au_Choix.sh ~/Desktop/Lab_Info/lab4/lab4/*/
+ 1060  ./Lecture_Doc_Repertoire_Au_Choix.sh ~/Desktop/Lab_Info/lab4/lab4/
+ 1061  ./Lecture_Doc_Repertoire_Au_Choix.sh ~/Desktop/Lab_Info/lab4/lab4
+ 1062  ./Lecture_Doc_Repertoire_Au_Choix.sh ~/Desktop/Lab_Info/lab4/
+ 1063  vim Lecture_Doc_Repertoire_Au_Choix.sh 
+ 1064  ./Lecture_Doc_Repertoire_Au_Choix.sh ~/Desktop/Lab_Info/lab4/lab4/*/
+ 1065  ./Lecture_Doc_Repertoire_Au_Choix.sh ~/Desktop/Lab_Info/lab4/lab4/
+ 1066  ./Lecture_Doc_Repertoire_Au_Choix.sh ~/Desktop/Lab_Info/lab4/lab4
+ 1067  ./Lecture_Doc_Repertoire_Au_Choix.sh ~/Desktop/Lab_Info/lab4/lab4/
+ 1068  vim Lecture_Doc_Repertoire_Au_Choix.sh 
+ 1069  ./Lecture_Doc_Repertoire_Au_Choix.sh ~/Desktop/Lab_Info/lab4/lab4/
+ 1070  ./Lecture_Doc_Repertoire_Au_Choix.sh ~/Desktop/Lab_Info/lab4/lab4/*/
+ 1071  ./Lecture_Doc_Repertoire_Au_Choix.sh ~/Desktop/Lab_Info/lab4/lab4/
+ 1072  vim Image_dowload.sh 
+ 1073  chmos +x Image_dowload.sh 
+ 1074  chmod +x Image_dowload.sh 
+ 1075  ls
+ 1076  ./Image_dowload.sh 
+ 1077  vim Image_dowload.sh 
+ 1078  cd Desktop/
+ 1079  cd Lab_Info/
+ 1080  cd lab5
+ 1081  LS
+ 1082  Ld
+ 1083  ls 
+ 1084  vim Lecture_Doc_Part_4.sh 
+ 1085  cd ..
+ 1086  ls
+ 1087  cd lab4
+ 1088  lq
+ 1089  ls
+ 1090  ls lab4/
+ 1091  cd Lab4
+ 1092  cd -r Lab4
+ 1093  ls -Lab4
+ 1094  cd Lab4
+ 1095  ls
+ 1096  cd lab4/
+ 1097  ls
+ 1098  cd Lab4/
+ 1099  ls
+ 1100  cd ..
+ 1101  cd lab5
+ 1102  ld 
+ 1103  ls 
+ 1104  cat Lecture_Doc_Repertoire_Au_Choix.sh 
+ 1105  ls
+ 1106  vim Lab_5 
+ 1107  cd DEs
+ 1108  cd Desktop/
+ 1109  cd Lab_Info/
+ 1110  cd lab5
+ 1111  ls
+ 1112  vim Image_dowload.sh 
+ 1113  ./Image_dowload.sh 
+ 1114  curl
+ 1115  sudo apt install curl
+ 1116  curl
+ 1117  sudo apt install curl 
+ 1118  sudo apt-get install curl 
+ 1119  cd ~
+ 1120  sudo apt-get install curl 
+ 1121  cd Desktop/
+ 1122  cd L
+ 1123  cd Lab_Info/
+ 1124  ls
+ 1125  cd lab5
+ 1126  LS
+ 1127  Ls
+ 1128  ls
+ 1129  cat Lecture_Doc_Repertoire_Au_Choix.sh 
+ 1130  cd Desktop/
+ 1131  cd Lab_Info/
+ 1132  cd lab4
+ 1133  ls
+ 1134  cd lab4/
+ 1135  ls 
+ 1136  cd ..
+ 1137  ls
+ 1138  cd ..
+ 1139  cd Lab_Info/
+ 1140  cd lab
+ 1141  cd lab4
+ 1142  cd ..
+ 1143  cd lab5
+ 1144  LS
+ 1145  ls
+ 1146  cat Lecture_Doc_Repertoire_Au_Choix.sh 
+ 1147  history
+ 1148  vim Image_dowload.sh 
+ 1149  ./Image_dowload.sh 
+ 1150  vim Image_dowload.sh 
+ 1151  ./Image_dowload.sh 
+ 1152  vim Image_dowload.sh 
+ 1153  ./Image_dowload.sh 
+ 1154  vim Image_dowload.sh 
+ 1155  wget -qO- http://xkcd.com/i | grep -oP 'hotlinking.*'
+ 1156  cd ~
+ 1157  wget -qO- http://xkcd.com/i | grep -oP 'hotlinking.*'
+ 1158  wget -qO- http://xkcd.com/1 | grep -oP 'hotlinking.*'
+ 1159  cd Desktop/
+ 1160  cd Lab_Info/
+ 1161  cd lab5
+ 1162  ls
+ 1163  vim Image_dowload.sh 
+ 1164  ./Image_dowload.sh 
+ 1165  vim Image_dowload.sh 
+ 1166  ./Image_dowload.sh 
+ 1167  cd ~
+ 1168  sudo apt-get install eog
+ 1169  cd Desktop/
+ 1170  cd Lab_Info/
+ 1171  cd lab
+ 1172  cd lab5
+ 1173  LS
+ 1174  Ls
+ 1175  LS
+ 1176  ls
+ 1177  vim Image_dowload.sh 
+ 1178  ./Image_dowload.sh 
+ 1179  vim Image_dowload.sh 
+ 1180  ./Image_dowload.sh 
+ 1181  vim Image_dowload.sh 
+ 1182  ./Image_dowload.sh 
+ 1183  vim Image_dowload.sh 
+ 1184  ./Image_dowload.sh 
+ 1185  vim Image_dowload.sh 
+ 1186  ./Image_dowload.sh 
+ 1187  vim Image_dowload.sh 
+ 1188  ./Image_dowload.sh 
+ 1189  vim Image_dowload.sh 
+ 1190  ./Image_dowload.sh 
+ 1191  vim Image_dowload.sh 
+ 1192  ./Image_dowload.sh 
+ 1193  vim Image_dowload.sh 
+ 1194  ./Image_dowload.sh 
+ 1195  vim Image_dowload.sh 
+ 1196  ./Image_dowload.sh 
+ 1197  vim Image_dowload.sh 
+ 1198  ./Image_dowload.sh 
+ 1199  vim Image_dowload.sh 
+ 1200  ./Image_dowload.sh 
+ 1201  vim Image_dowload.sh 
+ 1202  ./Image_dowload.sh 
+ 1203  vim Image_dowload.sh 
+ 1204  ./Image_dowload.sh 
+ 1205  vim Image_dowload.sh 
+ 1206  ./Image_dowload.sh 
+ 1207  vim Image_dowload.sh 
+ 1208  ./Image_dowload.sh 
+ 1209  vim Image_dowload.sh 
+ 1210  ./Image_dowload.sh 
+ 1211  vim Image_dowload.sh 
+ 1212  ./Image_dowload.sh 
+ 1213  vim Image_dowload.sh 
+ 1214  ./Image_dowload.sh 
+ 1215  vim Image_dowload.sh 
+ 1216  ./Image_dowload.sh 
+ 1217  vim Image_dowload.sh 
+ 1218  ./Image_dowload.sh 
+ 1219  vim Image_dowload.sh 
+ 1220  ./Image_dowload.sh 
+ 1221  vim Image_dowload.sh 
+ 1222  ./Image_dowload.sh 
+ 1223  vim Image_dowload.sh 
+ 1224  ./Image_dowload.sh 
+ 1225  vim Image_dowload.sh 
+ 1226  ./Image_dowload.sh 
+ 1227  vim Image_dowload.sh 
+ 1228  ./Image_dowload.sh 
+ 1229  vim Image_dowload.sh 
+ 1230  ./Image_dowload.sh 
+ 1231  vim Image_dowload.sh 
+ 1232  ./Image_dowload.sh 
+ 1233  vim Image_dowload.sh 
+ 1234  ./Image_dowload.sh 
+ 1235  ls
+ 1236  vim Image_dowload.sh 
+ 1237  ./Image_dowload.sh 
+ 1238  vim Image_dowload.sh 
+ 1239  ./Image_dowload.sh 
+ 1240  vim Image_dowload.sh 
+ 1241  ./Image_dowload.sh 
+ 1242  vim Image_dowload.sh 
+ 1243  ./Image_dowload.sh 
+ 1244  ls
+ 1245  eog image.jpg 
+ 1246  rm image.jpg 
+ 1247  ls
+ 1248  sudo apt-get install curl 
+ 1249  cd Desktop/
+ 1250  cd Lab_Info/
+ 1251  cd lab5
+ 1252  ls
+ 1253  ./Image_dowload.sh 
+ 1254  cd ..
+ 1255  cd..
+ 1256  cd lab5
+ 1257  vim Image_dowload.sh 
+ 1258  ls
+ 1259  ./Image_dowload.sh 
+ 1260  vim Image_dowload.sh 
+ 1261  ./Image_dowload.sh 
+ 1262  vim Image_dowload.sh 
+ 1263  wget
+ 1264  ./Image_dowload.sh 
+ 1265  vim Image_dowload.sh 
+ 1266  ./I
+ 1267  ./Image_dowload.sh 
+ 1268  cd ~
+ 1269  curl -s http://xkcd.com/1 | grep -Po 'password:\K\w+'
+ 1270  curl -s http://xkcd.com/1 | grep -Po 'hotlinking\K\w+'
+ 1271  wget -q0- http://xkcd.com/1 | grep -Po 'hotlinking\K\w+'
+ 1272  wget -q0- http://xkcd.com/1 | grep -oP 'hotlinking.*'
+ 1273  wget -qO- http://xkcd.com/1 | grep -op 'hotlinking.*'
+ 1274  wget -qO- http://xkcd.com/1 | grep -oP 'hotlinking.*'
+ 1275  cd Desktop/
+ 1276  cd Lab_Info/
+ 1277  cd lab5
+ 1278  ls
+ 1279  cat 1.1 
+ 1280  ls
+ 1281  rm 1 1.1
+ 1282  ls
+ 1283  cat releases.txt 
+ 1284  rm releases.txt 
+ 1285  ls
+ 1286  vim Image_dowload.sh 
+ 1287  ./Image_dowload.sh 
+ 1288  vim Image_dowload.sh 
+ 1289  cd ~
+ 1290  s
+ 1291  wget -qO- http://xkcd.com/1 | grep -oP 'hotlinking.*'
+ 1292  wget -qO http://xkcd.com/1 | grep -oP 'hotlinking.*'
+ 1293  wget -qO- http://xkcd.com/1 | grep -oP 'hotlinking.*'
+ 1294  cd Desktop/
+ 1295  cd Lab_Info/
+ 1296  cd lab5
+ 1297  ls
+ 1298  vim Image_dowload.sh 
+ 1299  ls
+ 1300  cat Lecture_Doc_Repertoire_Au_Choix.sh 
+ 1301  cat Lecture_Doc_Part_4.sh 
+ 1302  wget -qO http://xkcd.com/1 | grep -oP 'hotlinking.*'
+ 1303  wget -qO- http://xkcd.com/1 | grep -oP 'hotlinking.*'
+ 1304  cd Desktop/
+ 1305  cd Lab_Info/
+ 1306  cd lab5
+ 1307  ls
+ 1308  cat Lecture_Doc_Part_4.sh 
+ 1309  cd Desktop/
+ 1310  cd Lab_Info/
+ 1311  cd lab5
+ 1312  ls
+ 1313  vim Image_dowload.sh 
+ 1314  ./Image_dowload.sh 
+ 1315  ls
+ 1316  cd image.jpg
+ 1317  rm image.jpg 
+ 1318  ls
+ 1319  vim Image_dowload.sh 
+ 1320  ./Image_dowload.sh 
+ 1321  ls 
+ 1322  touch image 
+ 1323  ls
+ 1324  cd i
+ 1325  vim Image_dowload.sh 
+ 1326  ./Image_dowload.sh 
+ 1327  vim Image_dowload.sh 
+ 1328  ./Image_dowload.sh 
+ 1329  ls
+ 1330  eog barrel_cropped_\(1\).jpg 
+ 1331  rm barrel_cropped_\(1\).jpg blownapart_color.jpg firefly.jpg girl_sleeping_noline_\(1\).jpg irony_color.jpg island_color.jpg pi.jpg red_spiders_small.jpg tree_cropped_\(1\).jpg landscape_cropped_\(1\).jpg 
+ 1332  ls
+ 1333  rm image 
+ 1334  vim Image_dowload.sh 
+ 1335  ./Image_dowload.sh 
+ 1336  vim Image_dowload.sh 
+ 1337  ls
+ 1338  rm barrel_cropped_(1).jpg 
+ 1339  rm barrel_cropped_\(1\).jpg 
+ 1340  rm tree_cropped_\(1\).jpg 
+ 1341  ls
+ 1342  vim Image_dowload.sh 
+ 1343  ./Image_dowload.sh 
+ 1344  vim Image_dowload.sh 
+ 1345  ./Image_dowload.sh 
+ 1346  ls
+ 1347  vim Image_dowload.sh 
+ 1348  ls
+ 1349  rm .jpg
+ 1350  ls 
+ 1351  vim Image_dowload.sh 
+ 1352  find . -name ".jpg" -print
+ 1353  find
+ 1354  find . -name ".jpg" 
+ 1355  find .-name ".jpg" -print
+ 1356  find ".jpg" -print
+ 1357  ls
+ 1358  find . -name ".jpg" -print
+ 1359  find . -name '.jpg' -print
+ 1360  find . -name '*.jpg' -print
+ 1361  find . -name '*.jpg' -eog
+ 1362  find . -name "*.jpg" -eog
+ 1363  find . -name "*.jpg" 
+ 1364  vim Image_dowload.sh 
+ 1365  ls
+ 1366  rm barrel_cropped_\(1\).jpg blownapart_color.jpg firefly.jpg girl_sleeping_noline_\(1\).jpg irony_color.jpg island_color.jpg landscape_cropped_\(1\).jpg pi.jpg red_spiders_small.jpg tree_cropped_\(1\).jpg 
+ 1367  ls
+ 1368  ./Image_dowload.sh 
+ 1369  eog --help 
+ 1370  vim Image_dowload.sh 
+ 1371  cd Desktop/
+ 1372  cd Lab_Info/
+ 1373  cd lab5
+ 1374  ls
+ 1375  cat Lecture_Doc_r
+ 1376  cat Lecture_Doc_Repertoire_Au_Choix.sh 
+ 1377  ls
+ 1378  cat Lecture_2_nbr.sh 
+ 1379  cat Lecture_Doc_Part_4.sh 
+ 1380  cd Desktop/
+ 1381  cd Lab_Info/
+ 1382  cd lab5
+ 1383  ls
+ 1384  eog barrel_cropped_\(1\).jpg 
+ 1385  rm barrel_cropped_\(1\).jpg blownapart_color.jpg firefly.jpg girl_sleeping_noline_\(1\).jpg irony_color.jpg island_color.jpg landscape_cropped_\(1\).jpg pi.jpg red_spiders_small.jpg tree_cropped_\(1\).jpg 
+ 1386  ls
+ 1387  vim Image_dowload.sh 
+ 1388  ./Image_dowload.sh 
+ 1389  ls
+ 1390  vim Image_dowload.sh 
+ 1391  ls
+ 1392  mkdir image 
+ 1393  rm image 
+ 1394  rm barrel_cropped_\(1\).jpg blownapart_color.jpg firefly.jpg girl_sleeping_noline_\(1\).jpg irony_color.jpg island_color.jpg pi.jpg landscape_cropped_\(1\).jpg red_spiders_small.jpg tree_cropped_\(1\).jpg 
+ 1395  ls
+ 1396  mkdir image 
+ 1397  ls
+ 1398  vim Image_dowload.sh 
+ 1399  ./Image_dowload.sh 
+ 1400  LS
+ 1401  ls
+ 1402  cd image/
+ 1403  ls
+ 1404  cd ..
+ 1405  vim Image_dowload.sh 
+ 1406  lq
+ 1407  ls
+ 1408  ./Image_dowload.sh 
+ 1409  vim Image_dowload.sh 
+ 1410  cd Desktop/
+ 1411  cd Lab_Info/
+ 1412  cd lab5
+ 1413  ls
+ 1414  vim Image_dowload.sh 
+ 1415  ./Image_dowload.sh 
+ 1416  vim Image_dowload.sh 
+ 1417  ./Image_dowload.sh 
+ 1418  vim Image_dowload.sh 
+ 1419  ./Image_dowload.sh 
+ 1420  vim Image_dowload.sh 
+ 1421  ./Image_dowload.sh 
+ 1422  ls 
+ 1423  rm barrel_cropped_\(1\).jpg tree_cropped_\(1\).jpg 
+ 1424  ms
+ 1425  ls
+ 1426  rm barrel_cropped_\(1\).jpg.1 
+ 1427  ls
+ 1428  cd image/
+ 1429  ms
+ 1430  ls
+ 1431  cd ..
+ 1432  rm image/
+ 1433  ls
+ 1434  rm -r image/
+ 1435  ls
+ 1436  vim Image_dowload.sh 
+ 1437  ./Image_dowload.sh 
+ 1438  ls
+ 1439  rm barrel_cropped_\(1\).jpg blownapart_color.jpg girl_sleeping_noline_\(1\).jpg firefly.jpg irony_color.jpg island_color.jpg landscape_cropped_\(1\).jpg pi.jpg red_spiders_small.jpg tree_cropped_\(1\).jpg 
+ 1440  ls
+ 1441  mkdir image 
+ 1442  ls
+ 1443  vim Image_dowload.sh 
+ 1444  ./Image_dowload.sh 
+ 1445  ls
+ 1446  cd image/
+ 1447  ls
+ 1448  ls -a
+ 1449  cd ..
+ 1450  rm i
+ 1451  rm -r image/
+ 1452  ls 
+ 1453  rm barrel_cropped_\(1\).jpg blownapart_color.jpg firefly.jpg girl_sleeping_noline_\(1\).jpg irony_color.jpg island_color.jpg landscape_cropped_\(1\).jpg pi.jpg red_spiders_small.jpg tree_cropped_\(1\).jpg 
+ 1454  ls
+ 1455  vim Image_dowload.sh 
+ 1456  ./Image_dowload.sh 
+ 1457  ls
+ 1458  vim Image_dowload.sh 
+ 1459  cd Desktop/
+ 1460  cd Lab_Info/
+ 1461  cd lab5
+ 1462  ls
+ 1463  cat Lecture_Doc_Repertoire_Au_Choix.sh 
+ 1464  vim Image_dowload.sh 
+ 1465  ./Image_dowload.sh 
+ 1466  vim Image_dowload.sh 
+ 1467  ./Image_dowload.sh 
+ 1468  ls
+ 1469  rm barrel_cropped_\(1\).jpg blownapart_color.jpg firefly.jpg irony_color.jpg island_color.jpg landscape_cropped_\(1\).jpg pi.jpg red_spiders_small.jpg tree_cropped_\(1\).jpg 
+ 1470  ls
+ 1471  rm girl_sleeping_noline_\(1\).jpg 
+ 1472  ls
+ 1473  vim Image_dowload.sh 
+ 1474  ./Image_dowload.sh 
+ 1475  LS
+ 1476  ls
+ 1477  vim Image_dowload.sh 
+ 1478  ls 
+ 1479  ./Image_dowload.sh 
+ 1480  ls
+ 1481  rm barrel_cropped_\(1\).jpg barrel_cropped_\(1\).jpg blownapart_color.jpg blownapart_color.jpg firefly.jpg firefly.jpg girl_sleeping_noline_\(1\).jpg girl_sleeping_noline_\(1\).jpg irony_color.jpg irony_color.jpg island_color.jpg island_color.jpg
+ 1482  ls
+ 1483  rm barrel_cropped_\(1\).jpg.1 
+ 1484  ls
+ 1485  rm blownapart_color.jpg.1  irony_color.jpg.1 is
+ 1486  rm blownapart_color.jpg.1  irony_color.jpg.1 island_color.jpg.1 
+ 1487  ls
+ 1488  rm firefly.jpg.1 
+ 1489  lq
+ 1490  ls
+ 1491  rm girl_sleeping_noline_\(1\).jpg.1 
+ 1492  rm landscape_cropped_\(1\).jpg
+ 1493  rm landscape_cropped_\(1\).jpg.1 
+ 1494  ls
+ 1495  rm pi.jpg
+ 1496  rm pi.jpg.1 
+ 1497  rm red_spiders_small.jpg red_spiders_small.jpg
+ 1498  rm red_spiders_small.jpg.1 
+ 1499  rm tree_cropped_\(1\).jpg
+ 1500  rm tree_cropped_\(1\).jpg.1 
+ 1501  ls
+ 1502  vim Image_dowload.sh 
+ 1503  cd ~
+ 1504  cd Desktop/
+ 1505  cd Lab_Info/
+ 1506  cd lab5
+ 1507  ls
+ 1508  vim Image_dowload.sh 
+ 1509  ./Image_dowload.sh 
+ 1510  vim Image_dowload.sh 
+ 1511  ./Image_dowload.sh 
+ 1512  vim Image_dowload.sh 
+ 1513  ./Image_dowload.sh 
+ 1514  cd Desktop/
+ 1515  cd Lab_Info/
+ 1516  cd lab5
+ 1517  cd ..
+ 1518  ls
+ 1519  mkdir lab6
+ 1520  ls
+ 1521  cd lab6
+ 1522  ls
+ 1523  ping
+ 1524  cd Desktop/
+ 1525  cd Lab_Info/
+ 1526  cd lab6
+ 1527  ls
+ 1528  cd Desktop/
+ 1529  cd Lab_Info/
+ 1530  cd lab6
+ 1531  ls
+ 1532  vim Lab6
+ 1533  cd ~
+ 1534  HOSTNAME
+ 1535  ENV
+ 1536  env
+ 1537  hostname
+ 1538  home
+ 1539  cd home
+ 1540  echo PATH
+ 1541  echo path
+ 1542  PATH
+ 1543  path
+ 1544  echo $PATH
+ 1545  PRINTENV
+ 1546  printenv
+ 1547  echo $HOME
+ 1548  cd Desktop/
+ 1549  cd Lab_Info/
+ 1550  cd lab6
+ 1551  ls
+ 1552  vim Lab6 
+ 1553  ls
+ 1554  vim list_process.sh
+ 1555  cd ~
+ 1556  ps -aux | less
+ 1557  ps -A
+ 1558  cd Desktop/
+ 1559  cd Lab_Info/
+ 1560  cd lab6
+ 1561  vim list_process.sh 
+ 1562  chmod +x
+ 1563  chmod --help
+ 1564  cd ..
+ 1565  ls 
+ 1566  cd lab5
+ 1567  ls
+ 1568  cat L
+ 1569  cat Lab_5 
+ 1570  cd ..
+ 1571  cd lab6
+ 1572  ls
+ 1573  mv list_process.sh /$/opt/
+ 1574  mv list_process.sh $/opt/
+ 1575  mv list_process.sh $/.opt/
+ 1576  mv list_process.sh /usr/local/opt
+ 1577  mv list_process.sh /usr/local/.opt
+ 1578  mv list_process.sh /arno/local/.opt
+ 1579  mv list_process.sh ../opt/
+ 1580  chmod +rx list_process.sh 
+ 1581  ls
+ 1582  mv list_process.sh /usr/local/opt
+ 1583  mv list_process.sh /opt/
+ 1584  ls
+ 1585  cd 2
+ 1586  cd ~
+ 1587  ls
+ 1588  cd Desktop/
+ 1589  cd Lab_Info/
+ 1590  cd lab5
+ 1591  ls
+ 1592  cat Lecture_Doc_Repertoire_Au_Choix.sh 
+ 1593  cd ..
+ 1594  cd lab6
+ 1595  ls
+ 1596  vim Lab6 
+ 1597  cd ..
+ 1598  cd lab5
+ 1599  cat Lecture_Doc_Repertoire_Au_Choix.sh 
+ 1600  cd ..
+ 1601  cd lab6
+ 1602  chmod +x list_process.sh 
+ 1603  ls
+ 1604  ./list_process.sh 
+ 1605  cd ~
+ 1606  ls
+ 1607  cd opt
+ 1608  find /opt
+ 1609  cd /opt
+ 1610  ls
+ 1611  cd ..
+ 1612  ls -a
+ 1613  cd opt 
+ 1614  ls 
+ 1615  cd ..
+ 1616  ls
+ 1617  cd home/
+ 1618  ls
+ 1619  cd arno/
+ 1620  ls
+ 1621  cd Desktop/
+ 1622  cd Lab_Info/
+ 1623  cd lab6
+ 1624  ls
+ 1625  mv list_process.sh ~/opt/
+ 1626  cd ~
+ 1627  ls
+ 1628  cd ..
+ 1629  ls
+ 1630  locate opt/
+ 1631  locate 
+ 1632  ls
+ 1633  cd ..
+ 1634  l
+ 1635  ls
+ 1636  cd home/
+ 1637  cd arno/
+ 1638  cd Desktop/Lab_Info/lab6
+ 1639  ls
+ 1640  vim Lab6 
+ 1641  cd Desktop/
+ 1642  cd Lab_Info/
+ 1643  cd lab6
+ 1644  ls
+ 1645  sudo mv list_process.sh usr/local/opt/
+ 1646  history
+ 1647  sudo mv list_process.sh /usr/local/opt/
+ 1648  echo $Path
+ 1649  echo $PATH
+ 1650  cd /usr/local/bin
+ 1651  ls
+ 1652  cd..
+ 1653  cd ..
+ 1654  ls
+ 1655  cd ..
+ 1656  ls
+ 1657  ls -a
+ 1658  cd ..
+ 1659  ls
+ 1660  cd HOME
+ 1661  cd home
+ 1662  cd arno/
+ 1663  ls
+ 1664  cd Desktop/
+ 1665  ls
+ 1666  cd Lab_Info/
+ 1667  ls
+ 1668  cd lab6
+ 1669  ls
+ 1670  mv list_process.sh ~/opt/
+ 1671  mv list_process.sh $/opt/
+ 1672  mv list_process.sh /opt/
+ 1673  sudo mv list_process.sh /opt/
+ 1674  ls
+ 1675  cd ~
+ 1676  ls
+ 1677  cd ..
+ 1678  ls
+ 1679  cd ..
+ 1680  ls
+ 1681  cd opt/
+ 1682  ls
+ 1683  cd ..
+ 1684  cd home/
+ 1685  cd arno/Desktop/Lab_Info/lab6
+ 1686  ls
+ 1687  cd ~
+ 1688  cd .
+ 1689  cd ..
+ 1690  cd opt/
+ 1691  ls
+ 1692  cat list_process.sh 
+ 1693  cd ~
+ 1694  ls
+ 1695  cd Desktop/
+ 1696  cd Lab_Info/Lab4/6
+ 1697  cd ..
+ 1698  cd Desktop/*
+ 1699  cd lab6
+ 1700  cd ~
+ 1701  cd ..
+ 1702  cd opt/
+ 1703  lxs
+ 1704  ls
+ 1705  sh /opt
+ 1706  ls
+ 1707  cd ..
+ 1708  cd home/
+ 1709  cd arno/
+ 1710  cd Desktop/
+ 1711  ls
+ 1712  cd ..
+ 1713  cd 
+ 1714  ls
+ 1715  cd ..
+ 1716  cd opt/
+ 1717  cd 
+ 1718  pls
+ 1719  ls
+ 1720  cd ..
+ 1721  cd opt/
+ 1722  lq
+ 1723  *ls
+ 1724  ls
+ 1725  sh /opt/list_process.sh 
+ 1726  cd ..
+ 1727  cd home/
+ 1728  cd arno/Z
+ 1729  cd arno/
+ 1730  cd Desktop/
+ 1731  list_process.sh 
+ 1732  ./list_process.sh 
+ 1733  sh /opt/list_process.sh 
+ 1734  cd ..
+ 1735  ls
+ 1736  cd arno/
+ 1737  ls
+ 1738  ls -a
+ 1739  cd ..
+ 1740  ls
+ 1741  echo PATH
+ 1742  echo $PATH
+ 1743  chmod +x /opt/list_process.sh 
+ 1744  ls
+ 1745  cd opt/
+ 1746  ls
+ 1747  ./list_process.sh 
+ 1748  ls
+ 1749  cd ..
+ 1750  cd home/
+ 1751  cd arno/
+ 1752  cd Desktop/
+ 1753  ls
+ 1754  cd Lab_Info/
+ 1755  /opt/list_process.sh 
+ 1756  ls
+ 1757  cd Desktop/
+ 1758  ls
+ 1759  cd ..
+ 1760  cd opt/
+ 1761  ls
+ 1762  sudo chmod +x /opt/list_process.sh 
+ 1763  ls
+ 1764  ls -a
+ 1765  ls -l
+ 1766  cd ..
+ 1767  cd De
+ 1768  cd home/arno/Desktop/Lab_Info/
+ 1769  ls
+ 1770  /opt/list_process.sh 
+ 1771  ls
+ 1772  /opt/list_process.sh 
+ 1773  cd Desktop/
+ 1774  cd Lab_Info/
+ 1775  ls
+ 1776  Lab4/
+ 1777  cd Lab4/
+ 1778  ls
+ 1779  /opt/list_process.sh 
+ 1780  echo $PATH
+ 1781  echo $HOME
+ 1782  echo /opt
+ 1783  echo $PATH
+ 1784  export PATH=$PATH:/opt/
+ 1785  echo $PATH
+ 1786  list_process.sh 
+ 1787  lq
+ 1788  ls
+ 1789  cd Desktop/
+ 1790  cd Lab_Info/
+ 1791  cd lab
+ 1792  cd lab6
+ 1793  ehco $PATH
+ 1794  echo $PATH
+ 1795  $PATH
+ 1796  echo $PATH
+ 1797  vi ~/.profile
+ 1798  cd ..
+ 1799  cd opt/
+ 1800  ls
+ 1801  vi ~/.profile 
+ 1802  cd ..
+ 1803  cd opt/
+ 1804  ls
+ 1805  cd ..
+ 1806  cd opt/
+ 1807  ls
+ 1808  vim list_process.sh 
+ 1809  source ~/.bashrc
+ 1810  echo $PATH
+ 1811  cd ..
+ 1812  vim ~/.bashrc 
+ 1813  cd ..
+ 1814  cd opt/
+ 1815  ls
+ 1816  vim list_process.sh 
+ 1817  echo $PATH 
+ 1818  source ~/.bashrc
+ 1819  LS
+ 1820  ls
+ 1821  cd ..
+ 1822  echo $PATH
+ 1823  $SHELL
+ 1824  echo $SHELL
+ 1825  list_process.sh 
+ 1826  echo $SHELL
+ 1827  ECHO $PATH
+ 1828  echo $PATH 
+ 1829  WQ
+ 1830  ls
+ 1831  cd Desktop/Lab_Info/
+ 1832  list_process.sh 
+ 1833  ECHO $home 
+ 1834  echo $HOME
+ 1835  $PATH
+ 1836  cd Desktop/
+ 1837  cd Lab_Info/
+ 1838  cd lab6
+ 1839  ls
+ 1840  vim Lab6 
+ 1841  cd ~
+ 1842  cd ..
+ 1843  echo $PATH
+ 1844  LS
+ 1845  ls
+ 1846  cd arno/
+ 1847  ls
+ 1848  ls -a
+ 1849  echo $PATH
+ 1850  cd..
+ 1851  cd ..
+ 1852  ls
+ 1853  cd opt/
+ 1854  vim list_process.sh 
+ 1855  export PATH="$HOME/bin:$PATH"
+ 1856  ~                               ls
+ 1857  cd ..
+ 1858  cd opt/
+ 1859  ls
+ 1860  source ~/.bashrc 
+ 1861  ls 
+ 1862  echo $PAT
+ 1863  echo $PATH
+ 1864  cd ..
+ 1865  ls
+ 1866  cd home/arno/
+ 1867  lq
+ 1868  ls
+ 1869  cd Desktop/Lab_Info/lab6
+ 1870  lq
+ 1871  vim l
+ 1872  vim Lab6 
+ 1873  cd Desktop/
+ 1874  cd Lab_Info/
+ 1875  cd lab6
+ 1876  ls
+ 1877  vim Copie_De_List_Process.sh
+ 1878  chmod +x Copie_De_List_Process.sh 
+ 1879  ls
+ 1880  history
+ 1881  history > history_Lab_5_et_6.txt

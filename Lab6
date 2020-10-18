@@ -1,0 +1,54 @@
+Question 1.
+
+Pour afficher les variables d'envirionnement --> On tape dans le terminale --> env
+La variable d'anvironnement HOME à pour valeur --> HOME=/home/arno
+
+
+Question 2.
+
+Afficher le contenu de la variable d'environnement PATH --> echo $PATH --> /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+
+La variable d'environnement PATH contient une liste de répertoires qui sont séparés par deux points entre eux.
+Lorsque l'on tape une commande au clavier, le shell va chercher la commande qu'on écrit dans les répertoires contenu dans la variable d'environnement PATH. Dans l'ordre des répertoires contenu dans la variable PATH. 
+A noter que la recherche de la commande dans la variable d'environnement PATH s'arrête dès qu'elle est détectée. 
+
+Question 3.
+
+La commande permettant de visualiser l'ensemble des processes en cours est la suivante :
+ps -aux | less
+On l'intègre ensuite dans un script shell que l'on pourra executer pour visualiser l'ensemble des process en cours d'executions. 
+
+Question 4. 
+
+Pour déplacer ce srcipt vers le répertoire /opt, on utilise la commmande --> sudo mv list_process.sh /opt/ --> La commande sudo permettant de donner les droit d'utilisateur permettant de déplacer ce script vers le répertoire /opt. 
+
+
+Question 5.
+
+
+Pour que l'utilisateur puisse exécuter ce script depuis n'importe quel endroit, on exporte le répertoire /opt dans la variable d'envirionnnement $PATH.
+On utilise pour cela la commande --> export PATH=$PATH:/opt/
+On peut alors exécuter le programme depuis n'importe quel endroit en tappant uniquement le nom du script 
+-->   /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/opt/
+
+Question 6.
+
+Après avoir fermé le terminal, puis réouvert, on se rend compte qu'il nous est impossible d'éxecuter le programme en dehors du répertoire qui lui est associé. 
+On remarque en tappant la commande echo $PATH, que le répertoire /opt n'est plus présent dans la variable d'environnement.
+ Ceci explique pourquoi il nous est impossible d'executer le script depuis n'importe quel endroit.
+
+Question 7.
+
+Pour identifier quel script s'execute auomatiquement lors du démarrage d'un nouveau terminal, on peut tapper la commande --> echo $SHELL--> /bin/bash
+--> On sait maintenant dans quel fichier il faut ajouter le path jusqu'à notre script, il s'agit du fichier bashrc.
+On ouvre le fichier avec la commande --> vim ~/.bashrc --> On ajoute à la fin du fichier --> export PATH=$PATH:/opt --> on referme le fichier en sauvegardant. 
+Maintenant le répertoire /opt a été ajouté définitivement au $PATH 
+
+Question 8. 
+
+On teste ensuite en fermant le terminal puis en le réouvrant, on constate alors que le répertoire /opt se trouve toujours dans la variable d'environnement $PATH.
+Le script est executable partout et depuis $HOME  
+
+
+
+
