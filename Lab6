@@ -22,9 +22,7 @@ Question 4.
 
 Pour déplacer ce srcipt vers le répertoire /opt, on utilise la commmande --> sudo mv list_process.sh /opt/ --> La commande sudo permettant de donner les droit d'utilisateur permettant de déplacer ce script vers le répertoire /opt. 
 
-
 Question 5.
-
 
 Pour que l'utilisateur puisse exécuter ce script depuis n'importe quel endroit, on exporte le répertoire /opt dans la variable d'envirionnnement $PATH.
 On utilise pour cela la commande --> export PATH=$PATH:/opt/
